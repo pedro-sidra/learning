@@ -15,4 +15,5 @@ Referências para aprender machine learning
 * Links
 ** Autoencoders:https://rubikscode.net/2019/01/14/introduction-to-adversarial-autoencoders/
 ** Neural network playground: https://playground.tensorflow.org/
+** Efficient hyperparameter tuning: https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-i-hyper-parameter-8129009f131b
 
